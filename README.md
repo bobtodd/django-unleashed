@@ -1,2 +1,2 @@
 # django-unleashed
-A workspace for learning how the Django framework.
+ A workspace for learning the basics of the Django framework.
